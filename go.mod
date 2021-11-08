@@ -3,7 +3,7 @@ module github.com/hashicorp/terraform
 require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/Azure/azure-sdk-for-go v52.5.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.18
+	github.com/Azure/go-autorest/autorest v0.11.22
 	github.com/agext/levenshtein v1.2.3
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190329064014-6e358769c32a
 	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190103054945-8205d1f41e70
@@ -81,7 +81,7 @@ require (
 	github.com/zclconf/go-cty-debug v0.0.0-20191215020915-b22d67c1ba0b
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20210428180535-15715dcf1ace
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/mod v0.4.2
 	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
@@ -103,7 +103,7 @@ require (
 require (
 	cloud.google.com/go v0.79.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
-	github.com/Azure/go-autorest/autorest/adal v0.9.13 // indirect
+	github.com/Azure/go-autorest/autorest/adal v0.9.14 // indirect
 	github.com/Azure/go-autorest/autorest/azure/cli v0.4.2 // indirect
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
